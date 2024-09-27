@@ -1,6 +1,6 @@
 FROM devkitpro/toolchain-base
 
-MAINTAINER Dave Murphy <davem@devkitpro.org>
+MAINTAINER Leonardo Ledda <leonardoledda@gmail.com>
 
 ENV DEBIAN_FRONTEND=noninteractive
 
